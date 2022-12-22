@@ -1,0 +1,8 @@
+streamlit 
+pandas
+numpy
+openpyxl
+pyxlsb
+google-cloud-storage
+gunicorn==20.1.0
+Flask==2.1.0
